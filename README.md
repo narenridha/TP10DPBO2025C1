@@ -72,5 +72,7 @@ views/          # View (tampilan)
 
 ---
 
-**Catatan:**
-Struktur dan penamaan sudah disesuaikan dengan tema rumah sakit.
+**Record:**
+
+
+https://github.com/user-attachments/assets/412a2c4c-4fee-4fac-8a1a-74432ad0f345
